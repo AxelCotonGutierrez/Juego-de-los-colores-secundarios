@@ -110,7 +110,11 @@ h1 {
     font-size: 12px;
     padding: 5x 5px;
       }
-
+  .pregunta {
+     
+  font-size: 25px;
+      
+  }
   .circle {
     width: 60px;
     height: 60px;
